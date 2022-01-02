@@ -1,0 +1,70 @@
+.login {
+  width: 35%;
+  padding: 30px; 
+  margin: auto;
+  margin-top: 20px;
+  border: 1px solid white;
+  background-color: cadetblue;
+}
+.login input {
+
+  margin-top: 20px;
+  width: 100%;
+}
+.login button {
+
+  width: 30%;
+  margin-top: 20px;
+}
+
+.Tasktracker {
+
+  width: 40%;
+  margin: auto;
+  background-color: darkgoldenrod;
+  box-shadow: 2px 5px 14px 1px black;
+
+}
+.Tasktracker input {
+
+  height: 60px;
+  width: 70%;
+  margin: auto;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+.Tasktracker button {
+  margin-top: 30px;
+  width: 30%;
+  border-radius: 10px;
+}
+.table {
+
+  width: 40%;
+  margin: auto;
+  text-align: center;
+ 
+}
+.table tr {
+
+  width: 100%;
+
+}
+.header ul{
+
+  display: inline-flex;
+}
+.header {
+
+  width: 40%;
+  margin: auto;
+  background-color: black;
+}
+.header ul li {
+
+  margin-left: 100px;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+
